@@ -1,6 +1,6 @@
 # study-react-native-weather
 
-# 환경 구성
+## 환경 구성
 expo를 사용하여 구현 확인
 1. 디바이스에 expo 앱 설치 (Android or IOS)
 2. expo 앱 계정 로그인
